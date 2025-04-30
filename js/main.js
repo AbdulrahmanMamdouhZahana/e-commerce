@@ -198,7 +198,7 @@ function viewProductOnCart() {
     btnViweProduct.addEventListener("click", function () {
         setTimeout(() => {
             
-            window.location = "..//cart/project.html"
+            window.location = "cart/index.html"
         }, 1200);
     })
 }
@@ -244,7 +244,7 @@ function productId(id) {
         localStorage.setItem("productId", id)
     
         setTimeout(() => {
-            window.location = "../product_de/PRODUCT.html"
+            window.location = "product_de/index.html"
         }, 1500);
     }else
     {

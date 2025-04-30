@@ -20,7 +20,7 @@ submit.addEventListener("click", function () {
     if (localStorage.getItem("email")) {
         if (email.value == localStorage.getItem("email") && password.value == localStorage.getItem("password")) {
             setTimeout(() => {
-                window.location = "index.html"
+                window.location = "..//index.html"
 
             }, 1200);
         }
