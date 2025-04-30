@@ -83,7 +83,7 @@ sumPrice()
 
 function toHome() { 
     setTimeout(() => {
-        window.location = "..//home/index.html"
+        window.location = "..//index.html"
     }, 1200);
 }
 btnAdd.addEventListener("click", toHome)

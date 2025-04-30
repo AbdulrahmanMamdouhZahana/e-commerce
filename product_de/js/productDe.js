@@ -15,7 +15,7 @@ if (localStorage.getItem("email")) {
    
     list.innerHTML = ` <ul>
         <li ><a href="#" style="text-decoration: underline;">Hi. ${localStorage.getItem("username")}</a></li>
-        <li><a href="..//home/index.html">Home</a></li>
+        <li><a href="..//index.html">Home</a></li>
         <button  class="if_I_login" style=text-decoration:underline; onclick="logout()">logout</button>
 
         <li><a href="#" class ="cart"><i class="fa fa-cart-plus " aria-hidden="true"></i>

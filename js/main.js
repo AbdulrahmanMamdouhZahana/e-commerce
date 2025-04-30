@@ -222,14 +222,14 @@ window.onload = function () {
 
 function login() { 
     setTimeout(() => {
-        window.location = "../login page/login.html"
+        window.location = "login page/login.html"
     }, 1200);
 }
 
 
 function logout() { 
     setTimeout(() => {
-        window.location = "../login page/login.html"
+        window.location = "login page/login.html"
     }, 1200);
 }
 
