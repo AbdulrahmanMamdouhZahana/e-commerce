@@ -210,6 +210,7 @@ input[type="submit"]:hover {
   .center {
     width: 90%;
     padding: 30px 20px;
+    margin-top:60px;
   }
 
   .center h2 {
@@ -224,9 +225,7 @@ input[type="submit"]:hover {
     font-size: 14px;
     padding: 10px;
   }
-  .center {
-    margin-top: 20px;
-  }
+
 }
 
 @media (max-width: 480px) {
@@ -255,7 +254,7 @@ input[type="submit"]:hover {
     font-size: 13px;
   }
   .center {
-    margin-top: 20px;
+    margin-top: 60px;
   }
 
 }
