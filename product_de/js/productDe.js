@@ -188,6 +188,6 @@ function logout() {
 
 function buyNow() { 
     setTimeout(() => {
-        window.location = "..//cart/project.html"
+        window.location = "..//cart/index.html"
     }, 1200);
 }
