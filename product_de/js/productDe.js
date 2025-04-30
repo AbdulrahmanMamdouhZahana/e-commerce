@@ -146,7 +146,7 @@ function viewProductOnCart() {
     btnViweProduct.addEventListener("click", function () {
         setTimeout(() => {
             
-            window.location = "..//cart/project.html"
+            window.location = "..//cart/index.html"
         }, 1200);    
     })    
 }    
