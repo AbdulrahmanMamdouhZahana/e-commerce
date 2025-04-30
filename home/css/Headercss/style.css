@@ -1,0 +1,45 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: "PT Sans", sans-serif;
+
+}
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header{
+    height: 100px;
+    background-color: rgb(245, 241, 241);
+   
+}
+
+
+a{
+    color: rgb(4, 4, 4);
+}
+
+
+header h1 span {
+    font-size: 40px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+
+}
+.logo , .list{
+    margin-top: 20px;
+}
+
+.list li {
+    padding: 5px;
+} */
